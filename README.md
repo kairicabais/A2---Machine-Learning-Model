@@ -1,2 +1,2 @@
-# A2---Machine-Learning-Model
+# A2-MachineLearningModel
 Assessment 2 on Kaggle Notebook
